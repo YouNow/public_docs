@@ -1,6 +1,6 @@
 ---
 title: DATENSCHUTZRICHTLINIE
-layout: default
+layout: ../default
 ---
 
 # DATENSCHUTZRICHTLINIE
