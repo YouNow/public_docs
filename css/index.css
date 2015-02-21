@@ -1,8 +1,10 @@
 #sidebar {
+  float:left;
   width:200px;
   padding: 20px;
-  float:left;
 }
 #content {
   float:left;
+  width: 600px;
+  padding-left: 20px;
 }
