@@ -5,6 +5,6 @@ $( document ).ready(function() {
 });
 function scrollTo(i) {
   $('html,body').animate({
-    $($("h2")[i]).offset().top
+    scrollTop: $($("h2")[i]).offset().top
   }, 1000);
 }
