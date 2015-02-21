@@ -1,5 +1,6 @@
 ---
-title: test
+title: Test
+layout: default
 ---
 
 #hello
