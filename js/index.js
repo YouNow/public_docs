@@ -1,6 +1,6 @@
 $( document ).ready(function() {
   $("h2").each(function(i, h2){
-    $("#sidebar").append('<div onclick="scrollTo('+i+')">'+$(h2).text()+'</div>');
+    $("#sidebar").append('<li onclick="scrollTo('+i+')">'+$(h2).text()+'</li);
   });
 });
 function scrollTo(i) {
