@@ -102,5 +102,3 @@ New York, NY 10018, USA
 Wenn Sie unseren Newsletter oder unsere E-Mails nicht mehr erhalten möchten, können Sie sich jederzeit über den Link in der Fußzeile aller unserer E-Mails abmelden oder indem Sie uns über [YouNow Help Desk](https://younow.zendesk.com/anonymous_requests/new) kontaktieren.
 
 Letzte Aktualisierung der Datenschutzerklärung: April 2014
-
-&nbsp;
