@@ -167,9 +167,9 @@ The Trust & Safety team at YouNow does everything we can to ensure that we respo
 
 _Mailing Address_
 
-Trust & Safety at YouNow 
-25 West 36th Street, 11th Floor 
-New York, NY 10018 
+Trust & Safety at YouNow  
+25 West 36th Street, 11th Floor  
+New York, NY 10018  
 
 _E-mail Address (best contact to receive immediate response)_
 
