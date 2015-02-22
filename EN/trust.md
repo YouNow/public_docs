@@ -23,7 +23,7 @@ When you flag a user, the flag goes to a live moderator in real time who will re
 
 _Contact a Mod_
 
-Use the " [Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator/)" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real-time.
+Use the "[Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator/)" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real-time.
 
 ## Underage Users
 
