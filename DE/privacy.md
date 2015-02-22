@@ -2,6 +2,7 @@
 title: DATENSCHUTZRICHTLINIE
 layout: default
 category: DE
+permalink: DE/privacy
 ---
 
 # DATENSCHUTZRICHTLINIE
