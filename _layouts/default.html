@@ -14,7 +14,7 @@
         {% if node.url == page.url %}
           <li>{{node.title}}</li>
         {% else %}
-          <li><a href="{{node.url}}">{{node.title}}</a></li>
+          <li><a href="/public_docs/{{node.url}}">{{node.title}}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}
