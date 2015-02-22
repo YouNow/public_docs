@@ -3,17 +3,16 @@
 <link rel="stylesheet" type="text/css" href="/public_docs/css/index.css" />
 
 <div id="sidebar">
-
-  
   {% for node in site.pages %}
     {% if node.category == page.category %}
-      <li><a href="{{node.url}}">{{node.title}}</a></li>
+      {% if node.url == page.url %}
+        <li>{{node.title}}</li>
+      {% else %}
+        <li><a href="{{node.url}}">{{node.title}}</a></li>
+      {% endif %}
     {% endif %}
   {% endfor %}
 </div>
-<div id="content">
-Title: {{ page.category }} Yo
-
-{{ content }}</div>
+<div id="content"></div>
 
 
