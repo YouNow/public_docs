@@ -2,7 +2,10 @@
 <script src="/public_docs/_js/default.js"></script>
 <link rel="stylesheet" type="text/css" href="/public_docs/_css/default.css" />
 
-<div id="sidebar">
+<div id="sidebar"></div>
+<div id="content">{{ content }}</div>
+<div id="pages">
+  # Pages
   {% for node in site.pages %}
     {% if node.category == page.category %}
       {% if node.url == page.url %}
@@ -13,6 +16,9 @@
     {% endif %}
   {% endfor %}
 </div>
-<div id="content">{{ content }}</div>
+<div id="locales">
+  # Locales
+  English | German | Arabic | Turkish
+</div>
 
 
