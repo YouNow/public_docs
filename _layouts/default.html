@@ -3,6 +3,7 @@
 <link rel="stylesheet" type="text/css" href="/public_docs/css/index.css" />
 
 <div id="sidebar">
+  {{page.categories}}
   {% for node in site.pages %}
     <li><a href="{{node.url}}">{{node.title}}</a></li>
   {% endfor %}
