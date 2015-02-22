@@ -5,10 +5,10 @@
 <div id="sidebar">
 
   <h3>Sections</h3>
-  <div id="sections"></div>
+  <ul id="sections"></ul>
   
   <h3>Pages</h3>
-  <div id="pages">
+  <ul id="pages">
     {% for node in site.pages %}
       {% if node.category == page.category %}
         {% if node.url == page.url %}
@@ -18,7 +18,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-  </div>
+  </ul>
   
   <h3>Languages</h3>
   <div id="languages">
