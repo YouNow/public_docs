@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="/public_docs/css/index.css" />
 
 <div id="sidebar">
-  {% assign sorted_pages = site.categories[CATEGORY] | sort:"name" %}
+  {% assign sorted_pages = site.categories[page.categories[0] | sort:"name" %}
   {% for node in sorted_pages %}
     <li><a href="{{node.url}}">{{node.title}}</a></li>
   {% endfor %}
