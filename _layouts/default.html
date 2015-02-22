@@ -2,5 +2,12 @@
 <script src="/public_docs/js/index.js"></script>
 <link rel="stylesheet" type="text/css" href="/public_docs/css/index.css" />
 
-<div id="sidebar"></div>
+<div id="sidebar">
+  {% assign sorted_pages = site.pages | sort:"name" %}
+  {% for node in sorted_pages %}
+    <li><a href="{{node.url}}">{{node.title}}</a></li>
+  {% endfor %}
+</div>
 <div id="content">{{ content }}</div>
+
+
