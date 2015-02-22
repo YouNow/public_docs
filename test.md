@@ -1,6 +1,7 @@
 ---
 title: Test
 layout: default
+permalink: test
 ---
 
 #hello
