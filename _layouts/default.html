@@ -2,23 +2,28 @@
 <script src="/public_docs/js/default.js"></script>
 <link rel="stylesheet" type="text/css" href="/public_docs/css/default.css" />
 
-<div id="sidebar"></div>
-<div id="content">{{ content }}</div>
-<div id="pages">
-  # Pages
-  {% for node in site.pages %}
-    {% if node.category == page.category %}
-      {% if node.url == page.url %}
-        <li>{{node.title}}</li>
-      {% else %}
-        <li><a href="{{node.url}}">{{node.title}}</a></li>
+<div id="sidebar">
+
+  <h3>Sections</h3>
+  <div id="sections"></div>
+  
+  <h3>Pages</h3>
+  <div id="pages">
+    {% for node in site.pages %}
+      {% if node.category == page.category %}
+        {% if node.url == page.url %}
+          <li>{{node.title}}</li>
+        {% else %}
+          <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
       {% endif %}
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
+  </div>
+  
+  <h3>Languages</h3>
+  <div id="languages">
+    English | German | Arabic | Turkish
+  </div>
+  
 </div>
-<div id="locales">
-  # Locales
-  English | German | Arabic | Turkish
-</div>
-
-
+<div id="content">{{ content }}</div>
