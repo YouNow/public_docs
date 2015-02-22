@@ -1,6 +1,7 @@
 ---
 title: DATENSCHUTZRICHTLINIE
 layout: default
+category: DE
 ---
 
 # DATENSCHUTZRICHTLINIE
