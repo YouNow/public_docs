@@ -19,7 +19,7 @@ Es gibt mehrere unterschiedliche Wege, über die wir von Ihnen persönliche Info
 - Durch Umfragen: Wir erfassen Ihre Benutzerinformationen eventuell auch durch Umfragen, die wir von Zeit zu Zeit in Bezug auf unsere Dienstleistungen durchführen. Die Teilnahme und Bereitstellung von Informationen bei solchen Umfragen ist optional.&nbsp;
 - Aggregierte Informationen: Immer, wenn Sie unsere Website oder App &nbsp;aufrufen, erfasst und sammelt unser Webserver automatisch Informationen in Bezug auf Ihren Besuch. Diese Informationen umfassen URLs oder Domänen von verweisenden Websites, Browsertyp, Betriebssystem, die Seiten, auf die Sie zugreifen, und Datum und Uhrzeit des Besuchs. Im Allgemeinen werden Sie durch diese aggregierten Informationen nicht persönlich identifiziert, aber wenn wir solche Informationen Ihrer Person zuordnen, werden wir sie gemäß diesen Datenschutzbestimmungen behandeln.&nbsp;
 
-### 2. WAS WIR EVENTUELL MIT DEN GESAMMELTEN INFORMATIONEN TUN
+## 2. WAS WIR EVENTUELL MIT DEN GESAMMELTEN INFORMATIONEN TUN
 
 Wir könnten die uns zur Verfügung gestellten Informationen folgendermaßen verwenden:
 
