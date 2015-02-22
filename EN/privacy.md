@@ -1,1 +1,5 @@
-hi
+---
+title: Privacy
+layout: default
+category: EN
+---
