@@ -3,11 +3,11 @@ title: Trust & Safety
 layout: default
 category: EN
 ---
-**Our Philosophy**
+## Our Philosophy
 
 The Trust & Safety team uses a combination of automated systems and manual monitoring to ensure that all members of the YouNow community are kept safe. Guided by our [Community Standards & Site Rules](http://www.younow.com/siterules.php) and [Terms of Service](http://www.younow.com/terms.php), we continuously monitor YouNow broadcasts to warn, suspend, or ban any users who violate our policies.
 
-**Tools To Stay Safe on YouNow**
+## Tools To Stay Safe on YouNow
 
 _Blocking a User_
 
@@ -25,17 +25,17 @@ _Contact a Mod_
 
 Use the " [Contact Mod](https://younow.wufoo.com/forms/contact-a-younow-moderator/)" form on YouNow's website to submit your request for a moderator's attention. This form allows you to create a more in-depth report to a moderator in real-time.
 
-**Underage Users**
+## Underage Users
 
 YouNow users must be at least thirteen years of age. If you are a user who comes in contact with a user who is under the age of thirteen, please make sure to flag the user (reason: "User under 13").
 
-**Sexual Content**
+## Sexual Content
 
 As per YouNow's official policies, sexually explicit content is not allowed on our service. If you come across an image or broadcast that is explicitly sexual or pornographic in nature, please flag the user immediately so a moderator can review the content and handle the situation accordingly.
 
 Broadcasting, sharing, downloading, or encouraging sexually explicit content of minors can be criminal. Note that we report all instances of child exploitation to the National Center for Missing and Exploited Children. For more information on reporting to NCMEC, [please click here](http://www.missingkids.com/CyberTipline).
 
-**Suicide and Self-Harm Prevention**
+## Suicide and Self-Harm Prevention
 
 **If you or someone you know is at risk of self-harm or making suicidal threats, seek help immediately.**
 
@@ -45,8 +45,8 @@ If you come across content on YouNow relating to suicide or self-harm, please fl
 
 **Australia:**
 
-- BeyondBlue&nbsp;
-  - 1300 22 4636 &nbsp; &nbsp;&nbsp;
+- BeyondBlue
+  - 1300 22 4636
 
 **Belgium:**
 
@@ -119,7 +119,7 @@ If you come across content on YouNow relating to suicide or self-harm, please fl
 - National Suicide Prevention Lifeline&nbsp;
   - 1-800-273-TALK (8255)
 
-**Broadcasting Safety Tips**
+## Broadcasting Safety Tips
 
 It's important to maintain your privacy and security while broadcasting live. Below are a few tips we recommend you keep in mind while on YouNow, and on the Internet and social media, in general.
 
@@ -128,7 +128,7 @@ It's important to maintain your privacy and security while broadcasting live. Be
 - Don't do anything online that you wouldn't want your parents seeing. YouNow is a public place, like any other. Parents, friends, teachers, or others you know might be watching, and so you should behave accordingly.&nbsp;
 - Remember that everything you do gets recorded. After you end your broadcast, the recorded video lives on your profile for 3 days, or is permanent if it's your most recent broadcast. You do, however, have the ability to remove any video from your profile by navigating to the "broadcasts" tab.&nbsp;
 
-**Resources**
+## Resources
 
 To ensure that you have the best experience possible on YouNow, please familiarize yourself with YouNow's official rules and policies, below.
 
@@ -138,12 +138,12 @@ To ensure that you have the best experience possible on YouNow, please familiari
 
 For further questions regarding any of the above, technical support, or for unbanning requests, please contact the [YouNow Help Desk here](http://support.younow.com).
 
-**Guide for Parents**
+## Guide for Parents
 
   YouNow is a live broadcasting platform
 
 
-**Guide for Law Enforcement**
+## Guide for Law Enforcement
 
 The Trust & Safety team at YouNow is dedicated to working with law enforcement to provide information that is in line with our Terms of Use and Privacy Policy. We take the safety and privacy of our users very seriously and work hard to safeguard the wellbeing of our users to the best of our ability.
 
@@ -161,7 +161,7 @@ _IP Address_
 
 - We collect IP address information but&nbsp;please note that this information is provided by third parties and isn't verified by YouNow.&nbsp;
 
-**Contact us**
+## Contact us
 
 The Trust & Safety team at YouNow does everything we can to ensure that we respond quickly to law enforcement inquiries. Please contact us via the following:
 
